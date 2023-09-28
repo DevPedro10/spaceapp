@@ -4,7 +4,7 @@ import styled from "styled-components";
 const DivInputStyled = styled.div`
     
     border-radius: 10px;
-    border: 3px solid transparent;
+    border: 2px solid transparent;
     background: linear-gradient(to right, #c98cf1, #7b78e5, #c98cf1);
     display: flex;
     align-items: center;
